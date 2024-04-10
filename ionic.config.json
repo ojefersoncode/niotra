@@ -1,0 +1,8 @@
+{
+  "name": "Niotra",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "15f33ef9"
+}
